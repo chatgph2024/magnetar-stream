@@ -5,8 +5,8 @@ import { Metadata } from 'next';
 
 
 export const metadata: Metadata = {
-  title: "Zoom",
-  description: "Zoom APP with Next.js and TypeScript",
+  title: "Magnetar Stream",
+  description: "Magnetar Stream",
   keywords: "zoom, clone, nextjs, typescript",
   icons: {
     icon: '/icons/logo.svg',
